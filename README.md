@@ -1,2 +1,2 @@
 # POO-II
-Exercicios e Projetos do módulo de POO II -  &lt;Dev>ª
+Exercicios e Aulas do módulo de POO II -  &lt;Dev>ª
